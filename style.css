@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    font-family: 'Titillium Web', sans-serif;
+}
+h3{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+span{
+    font-size: 20px;
+    color: black;
+}
+#song_name{
+    border: solid 2px black;
+    border-radius: 0;
+    background-color: rgb(131, 144,178);
+    font-size: 20px;
+    width: 150px;
+    font-family: 'Titillium Web', sans-serif;
+    color: aliceblue;
+}
+.play{
+    width: 200px;
+    font-size: 25px;
+}
+canvas{
+    border:3px solid white;
+    border-radius: 10;
+}
